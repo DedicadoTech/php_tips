@@ -1,0 +1,6 @@
+composer -V (verifica se o composer está instalado)
+mkdir ep01 (cria diretorio)
+
+baixei o composer através da IDE
+tools>composer>Init_Composer
+

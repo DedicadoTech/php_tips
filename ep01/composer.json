@@ -1,0 +1,14 @@
+{
+  "name": "php_tips/ep01",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ARTESAOTI",
+      "email": "artesaoti@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
